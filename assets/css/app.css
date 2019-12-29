@@ -1,8 +1,8 @@
 @charset "UTF-8";
 @font-face {
   font-family: "mobi";
-  src: url("./assets/css/fonts/mobi.eot");
-  src: url("./assets/css/fonts/mobi.eot?#iefix") format("embedded-opentype"), url("./assets/css/fonts/mobi.woff") format("woff"), url("./assets/css/fonts/mobi.ttf") format("truetype"), url("./assets/css/fonts/mobi.svg#mobi") format("svg");
+  src: url("../css/fonts/mobi.eot");
+  src: url("../css/fonts/mobi.eot?#iefix") format("embedded-opentype"), url("../css/fonts/mobi.woff") format("woff"), url("../css/fonts/mobi.ttf") format("truetype"), url("../css/fonts/mobi.svg#mobi") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2390,6 +2390,14 @@
 .icon-notext:before {
   top: 0;
   margin-right: 0 !important;
+}
+
+.main-header .header-bar i {
+  font-size: 1.6em;
+}
+
+.main-header .header-bar p {
+  font-size: 0.975em;
 }
 
 /*# sourceMappingURL=app.css.map */
