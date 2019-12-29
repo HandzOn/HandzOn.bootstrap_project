@@ -10,3 +10,17 @@ After cloning the repository, run the command: `npm i` or `yarn` to install the 
 
 We use the library [SASS](https://sass-lang.com/install) to process style sheets. If you want to modify the styles, 
 we recommend using them.
+---
+
+### Roadmap
+- #### Front End
+- [ ] Create Home Page
+- [ ] Create Highlight
+- [ ] Create Rent
+- [ ] Create Buy
+- [ ] Create Contact
+
+- #### Back End
+- [ ] Configure Node.js, Express and EJS
+- [ ] Separate header into single file
+- [ ] Create one .ejs file for each page
