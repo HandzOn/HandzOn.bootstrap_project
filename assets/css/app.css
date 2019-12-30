@@ -2821,4 +2821,29 @@ select.selectpicker {
   color: #FFCC80;
 }
 
+.main-list-group .main-list-group-items .main-list-group-item {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.main-list-group .main-list-group-items .main-list-group-item a {
+  flex-basis: 100%;
+  min-height: 200px;
+  color: #FFF;
+  font-size: 1.2em;
+  transition: 0.2s;
+}
+.main-list-group .main-list-group-items .main-list-group-item a:hover {
+  text-decoration: none;
+  font-size: 1.3em;
+}
+.main-list-group .main-list-group-items .main-list-group-item div {
+  flex-basis: 100%;
+  min-height: 200px;
+}
+.main-list-group .main-list-group-items .main-list-group-item h2 {
+  color: #FFF;
+  font-size: 1.2em;
+}
+
 /*# sourceMappingURL=app.css.map */
