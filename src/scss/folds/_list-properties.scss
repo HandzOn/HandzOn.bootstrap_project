@@ -1,0 +1,45 @@
+.img-responsive-16by9 {
+  display: block;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.main-properties .main-properties-item {
+
+  .main-properties-item-category {
+    margin-bottom: 0;
+  }
+
+  .main-properties-item-type {
+    font-size: 0.875em;
+    color: #666;
+  }
+
+  .main-properties-item-price {
+    font-weight: bold;
+    font-size: 1.6em;
+  }
+
+  .main-properties-item-features {
+    img {
+      max-width: 40px;
+    }
+
+    p {
+      font-size: 0.875em;
+      margin-top: 6px;
+      margin-bottom: 0;
+    }
+  }
+
+  h2 {
+    font-size: 1.4em;
+    margin-top: 10px;
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+}

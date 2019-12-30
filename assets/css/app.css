@@ -2802,6 +2802,40 @@ select.selectpicker {
   font-size: 0.975em;
 }
 
+.img-responsive-16by9 {
+  display: block;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.main-properties .main-properties-item .main-properties-item-category {
+  margin-bottom: 0;
+}
+.main-properties .main-properties-item .main-properties-item-type {
+  font-size: 0.875em;
+  color: #666;
+}
+.main-properties .main-properties-item .main-properties-item-price {
+  font-weight: bold;
+  font-size: 1.6em;
+}
+.main-properties .main-properties-item .main-properties-item-features img {
+  max-width: 40px;
+}
+.main-properties .main-properties-item .main-properties-item-features p {
+  font-size: 0.875em;
+  margin-top: 6px;
+  margin-bottom: 0;
+}
+.main-properties .main-properties-item h2 {
+  font-size: 1.4em;
+  margin-top: 10px;
+}
+.main-properties .main-properties-item h2 a:hover {
+  text-decoration: none;
+}
+
 .main-slide {
   background-size: 100%;
   background: url("../../assets/images/front1.jpg") no-repeat center 65%;
