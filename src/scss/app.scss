@@ -10,3 +10,7 @@
 @import 'folds/optin';
 
 @import 'pages/home';
+
+*, *:before, *:after {
+  outline: none !important;
+}

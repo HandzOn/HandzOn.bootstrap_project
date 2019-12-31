@@ -2836,9 +2836,26 @@ select.selectpicker {
   text-decoration: none;
 }
 
+.main-optin {
+  text-align: center;
+}
 .main-optin h1 {
   display: block;
   text-align: center;
+  font-size: 1.8em;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.main-optin p {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.main-optin form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.main-optin form input {
+  margin-bottom: 10px;
 }
 
 .main-slide {
@@ -2883,6 +2900,10 @@ select.selectpicker {
 .main-list-group .main-list-group-items .main-list-group-item h2 {
   color: #FFF;
   font-size: 1.2em;
+}
+
+*, *:before, *:after {
+  outline: none !important;
 }
 
 /*# sourceMappingURL=app.css.map */
