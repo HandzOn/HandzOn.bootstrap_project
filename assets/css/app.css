@@ -2836,6 +2836,11 @@ select.selectpicker {
   text-decoration: none;
 }
 
+.main-optin h1 {
+  display: block;
+  text-align: center;
+}
+
 .main-slide {
   background-size: 100%;
   background: url("../../assets/images/front1.jpg") no-repeat center 65%;
