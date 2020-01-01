@@ -23,8 +23,3 @@ we recommend using them.
 - [ ] Create Rent
 - [ ] Create Buy
 - [ ] Create Contact
-
-- #### Back End
-- [ ] Configure Node.js, Express and EJS
-- [ ] Separate header into single file
-- [ ] Create one .ejs file for each page
