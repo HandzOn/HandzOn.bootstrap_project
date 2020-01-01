@@ -22,4 +22,4 @@ we recommend using them.
 - [ ] Create Highlight
 - [x] Create Rent
 - [x] Create Buy
-- [ ] Create Contact
+- [x] Create Contact
