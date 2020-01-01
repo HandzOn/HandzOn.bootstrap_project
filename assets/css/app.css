@@ -2962,6 +2962,7 @@ select.selectpicker {
   border-radius: 4px;
   border: 1px solid #2D9A81;
   color: #FFF;
+  min-width: 150px;
 }
 .main-property .main-property-content-contact {
   border-radius: 4px;
