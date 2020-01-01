@@ -2802,6 +2802,25 @@ select.selectpicker {
   font-size: 0.975em;
 }
 
+.main-footer h1 {
+  font-size: 1.4em;
+  border-bottom: 1px solid #CCC;
+}
+.main-footer ul {
+  padding-left: 0;
+}
+.main-footer ul li {
+  list-style: none;
+  margin-bottom: 9px;
+}
+.main-footer ul a {
+  color: #666;
+}
+
+.main-copyright p {
+  font-size: 0.857em;
+}
+
 .img-responsive-16by9 {
   display: block;
   height: 0;
