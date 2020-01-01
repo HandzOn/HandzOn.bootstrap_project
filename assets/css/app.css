@@ -2921,6 +2921,28 @@ select.selectpicker {
   font-size: 1.2em;
 }
 
+.main-contact form {
+  padding: 20px;
+  background-color: #FFF;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-radius: 4px;
+  width: 600px;
+  max-width: calc(100% - 40px);
+}
+.main-contact form h2 {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.main-contact-types h2 {
+  font-size: 1.4em;
+  color: #666;
+}
+.main-contact-types p {
+  font-size: 0.875em;
+}
+
 *, *:before, *:after {
   outline: none !important;
 }
