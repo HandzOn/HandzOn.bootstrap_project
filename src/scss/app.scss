@@ -18,3 +18,9 @@
 *, *:before, *:after {
   outline: none !important;
 }
+
+.carousel-item {
+  img {
+    height: 450px;
+  }
+}

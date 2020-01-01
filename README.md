@@ -19,7 +19,6 @@ we recommend using them.
 ### Roadmap
 - #### Front End
 - [x] Create Home Page
-- [ ] Create Highlight
-- [x] Create Rent
-- [x] Create Buy
-- [x] Create Contact
+- [x] Create Filter Page
+- [x] Create Contact Page
+- [x] Create Property Single Page
